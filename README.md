@@ -36,20 +36,17 @@
 
 ## 🚀 Projects
 🔹 AI Resume Builder  
-### 🏠 Airbnb Clone (MERN Backend)
+### 🏠 WanderLust (MERN Backend)
 **Tech Stack:** Node.js, Express.js, MongoDB, Bootstrap, CSS  
 
 🔹 Full authentication (Login / Signup)  
-🔹 Property listing & booking system  
+🔹 Property listing
 🔹 Image upload  
 🔹 Responsive UI  
 🔹 REST APIs  
 
 👉 **GitHub Repo:**  
 https://github.com/vivekkr620/WanderLust
-
-👉 **Live Demo:**  
-https://wanderlust-c75i.onrender.com  
 
 ---
 
