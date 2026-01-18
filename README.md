@@ -48,7 +48,7 @@
 👉 **GitHub Repo:**  
 https://github.com/vivekkr620/WanderLust
 
-👉 **Live Demo (if any):**  
+👉 **Live Demo:**  
 https://wanderlust-c75i.onrender.com  
 
 ---
