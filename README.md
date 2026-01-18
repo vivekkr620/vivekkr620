@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#7cffcb">Full Stack Developer | Machine Learning Passionate</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFE1&center=true&vCenter=true&lines=MERN+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Building+Cool+Stuff"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFE1&center=true&vCenter=true&lines=MERN+Stack+Developer;Open+Source+Learner;Building+Cool+Stuff"/>
 </p>
 
 ---
