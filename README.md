@@ -91,9 +91,9 @@ https://github.com/vivekkr620/WanderLust
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekkr620&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekkr620&show_icons=true&theme=dracula"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkr620&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkr620&layout=compact&theme=dracula"/>
 
 </p>
 
