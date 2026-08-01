@@ -73,7 +73,7 @@ https://github.com/vivekkr620/StackMind
 
 ### Tech Stack
 
-Node.js • Express.js • MongoDB • Bootstrap
+React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Cloudinary
 
 ✨ Features
 
